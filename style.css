@@ -1,0 +1,291 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    
+}
+body{
+    /* width: 100%;
+    height: 100vh; */
+    background-color: rgb(232, 227, 219);
+}
+.contact{
+        background-color: rgb(232, 126, 135);
+        /* border: solid 5px white; */
+       /* margin-top: -10px; */
+       display: flex;
+       flex-wrap: wrap;
+       /* justify-content: center; */
+    padding: 19px;
+    color: white;
+    
+    
+
+}
+.pp{
+ margin-left: 460px;
+}
+.gg{
+    width: 200px;
+    height: 460px;
+    
+    margin-top: -160px;
+    
+}
+.cont-1-a{
+    text-align: right;
+    margin-top: 22px;
+    color: rgb(224, 84, 84);
+}
+.p1{
+    margin-right: 200px;   
+}
+span{
+    margin-right: 390px;
+    font-size: 30px;
+}
+.i-image{
+    color:  rgb(224, 84, 84);
+    text-align: center;
+    margin-top: 140px;
+    
+}
+
+.ima{
+    margin-top: 100px;
+    margin-top: 90px;
+    /* width: 90px;
+    height: 250px; */
+    display: flex;
+    text-align: center;
+    background-color: bisque;
+    /* padding-right: 10px; */
+    
+}
+.imaa{
+display: flex;
+
+}
+.client{
+    margin-top: 100px;
+    color:  rgb(224, 84, 84);
+}
+.clis{
+  
+    float: right;
+    margin-right: 200px;
+    
+}
+.pg{
+    float: right;
+    margin-right: 122px;
+}
+.occ{
+    text-align: center;
+    margin-top: 800px;
+    color: rgb(224, 84, 8) ;
+    
+    
+}
+.Ass{
+        margin-left: -300px;
+}
+.space{
+    margin-left: 610px;
+    margin-top: -399px;
+}
+.page-3{
+    
+     margin-top: 130px; 
+     vertical-align: middle;
+     display: flex;
+     
+    
+}
+.livraison{
+    text-align: center;
+    margin-top:200px ;
+    font-size: 1.50rem;
+    color:rgb(224, 84, 8) ;
+    
+}
+.livrais {
+    margin-left:-460px ;
+    /* margin-top: 200px; */
+}
+.ha{
+    margin-left:-460px ;
+}
+.livrai{
+    margin-top: -65px;
+}
+.livre{
+    margin-left: 490px;
+    margin-top: -67px;
+}
+.hc{
+    margin-left: 400px;
+    margin-top: -1px;
+} 
+.live{
+    margin-left: 990px;
+    margin-top: -75px;  
+}
+.hd{
+    margin-left: 990px;
+    margin-top: -1px
+}
+.green{
+    margin-top: 300px;
+    text-align: center;
+    background-color: rgb(189, 234, 220);
+    padding: 90px;
+    margin-left: 300px;
+}
+.choi{
+    background-color: rgb(248, 238, 227);
+    text-align: center;
+    margin-top: 300px;
+    
+}
+.choix{
+    
+    display: flex;
+    margin-top: 100px;
+}
+.chooo3{
+    margin-left: 30px;
+}
+.choo2{
+    margin-left: 30px;
+}
+.cho1{
+    margin-left: 160px;
+}
+.boutique-chau{
+    
+    margin-top: 200px;
+    text-align: center;
+}
+.bouti{
+    margin-top: 90px;
+}
+.info-ville{
+    margin-top: 200px;
+    text-align: center;
+    color:rgb(224, 84, 8) ;
+}
+.ville{
+    /* margin-top: 200px;
+    text-align: center;
+    color:rgb(224, 84, 8) ; */
+}
+.categorie{
+    margin-top: 100px;
+    display: flex;
+}
+.barcelone{
+    background-color: rgb(243, 224, 205);
+    margin-left: 30px;
+}
+.paris{
+    background-color: rgb(223, 223, 197);
+    margin-left: 30px;
+}
+.toronto{
+    background-color: rgb(153, 219, 197);
+    margin-left: 200px;
+    padding-bottom: 150px;
+}
+.conta-form{
+    margin-top: 200px;
+    
+}
+.loc-chau{
+    margin-left: -640px;
+}
+input{
+        background-color: rgb(222, 228, 228);
+    margin-left: 100px;
+    padding: 10px 100px;
+    border-left-color:  0.3px solid rgb(222, 228, 228);
+    border-top-color:rgb(235, 246, 246);
+    /* margin-top: 10px; */
+    
+}
+.box{
+    margin-top: -325px;
+        background-color: rgb(222, 228, 228);
+        margin-left: 600px;
+        padding: 111px 20px;
+        color:rgb(224, 84, 8) ;
+}
+.conta-form{
+    background-color:#f4daba;
+    color:rgb(224, 84, 8) ;
+    margin-right:700px;
+    margin-left: 160px;
+    /* font-size: 1.5rem; */
+    padding: 90px;
+
+}
+.inp{
+    margin-top: 20px;
+}
+.loc{
+    margin-left: 180px;
+    margin-top: -120px;
+}
+.ips{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+button{
+    margin-left: 180px;
+    margin-top: 10px;
+    background-color: brown;
+    padding: 5px;
+    color: white;
+}
+.flo{
+    margin-left: 100px;
+}
+.rem{
+    margin-left: 80px;
+}
+.dio{
+    margin-left: 80px;
+}
+.connec-for{
+    margin-top: 200px;
+    display: flex;
+    background-color: rgb(206, 231, 206);
+    color: rgb(224, 84, 8) ;;
+}
+.reseau{
+    margin-left: 300px;
+    background-color: rgb(217, 211, 200);
+    padding: 30px 80px;
+    font-size: 1.2rem;
+    color: rgb(224, 84, 8) ;;
+}
+.icon{
+    margin-left: 10px;
+    
+}
+.icone{
+    margin-left: 180px;
+    margin-top: -50px;
+}
+.facebook{
+    margin-top: 50px;
+}
+.twitter{
+    margin-top: 80px;
+}
+.you{
+    margin-top: -150px; 
+}
+.insta{
+    margin-top: 19px;
+}
